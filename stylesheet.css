@@ -2,6 +2,8 @@
   text-align: center;
 }
 
+// border bottom not showing, do i need a div? find out why px is showing as red
+
 h2 {
   width: 100%;
   border-bottom: 1px solid blue; 
