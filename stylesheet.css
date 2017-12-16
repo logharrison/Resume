@@ -10,3 +10,10 @@ h3 {
   font-weight: bold; 
 }
 
+.right{
+    float: right;
+}
+
+.left{
+    float: left;
+}
