@@ -30,11 +30,11 @@ h3 {
   margin: 0px; padding: 0px;
 }
 
-#NavMenu {
+.NavMenu {
   width: 100%; height: 80px; background: #333;
 }
 
-#NavBar {
+.NavBar {
   width: 600px; height: 80px; border: 1px #ffffff;
 }
 
