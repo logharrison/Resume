@@ -34,10 +34,10 @@ h3 {
   width: 600px; height: 80px; border: 1px #ffffff;
 }
 
-#NavBar.li {
+NavBar.li {
  width: 200px; list-style: none; float: left;
 }
 
-#li.a {
+.button {
  display: block; color: #ffffff; line-height: 80px; text-align: center; font-size: 20px;
 }
