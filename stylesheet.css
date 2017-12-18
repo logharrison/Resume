@@ -36,6 +36,6 @@ h3 {
   padding: 0px;
 }
 
-.button {
- display: inline-block; 
+li.button {
+ display: inline; 
 }
