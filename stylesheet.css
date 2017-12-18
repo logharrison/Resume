@@ -40,12 +40,11 @@ h3 {
   width: 100%;
   text-decoration: none;
   color: #fff;
+  text-align: center;
 }
 
 li.button {
  display: inline; 
-  height: 80px;
-  width: 120px;
 
 }
 
