@@ -38,7 +38,7 @@ ul.navbar {
   padding: 0px;
 }
 
-li.button {
+.button {
  display: inline; 
  text-align: center;
  height: 80px;
