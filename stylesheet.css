@@ -36,8 +36,6 @@ ul.navbar {
   list-style-type: none;
   margin: 0px;
   padding: 0px;
-  height: 80px;
-  width: 100%;
   text-decoration: none;
 }
 
@@ -45,8 +43,7 @@ li.button {
  display: inline; 
  text-align: center;
  color: #fff;
+ height: 80px;
+ width: 100%;
 }
 
-a:hover {
-  background-color: #111;
-}
