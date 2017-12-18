@@ -27,15 +27,15 @@ h3 {
 }
 
 .header {
-width: 600px;
-  height: 80px;
+  
 }
 
 .navbar {
- width: 200px;
-  height:80px;
   list-style-type: none;
   margin: 0px;
   padding: 0px;
-  display: inline-block;
+}
+
+.button {
+ display: inline-block; 
 }
