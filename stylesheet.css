@@ -40,4 +40,6 @@ h3 {
 
 li.button {
  display: inline; 
+  height: 80px;
+  width: 120px;
 }
